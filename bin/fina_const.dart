@@ -1,5 +1,5 @@
  void main(){
- String name="manu";
+ String name ="manu";
  int age =25;
  print(age);
  final  String course;

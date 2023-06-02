@@ -1,5 +1,5 @@
 void main(){
-  int i=0;
+  int i=1;
   int maz=10;
   do {
     print(i);
