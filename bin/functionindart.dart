@@ -38,6 +38,8 @@ void showw (int a,{int ? b, int?c,}){
 void displa(int a,{int b=20, int? c }){
   print("value of a=$a, value of b=$b, value of c =$c");
 }
+ //lamda function / ARROW FUNCTION
+//   void main()=> print("hii");
 
 void main() {
   add();
